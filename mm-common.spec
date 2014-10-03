@@ -1,11 +1,11 @@
 Summary:	Build infrastructure and utilities
 Name:		mm-common
-Version:	0.9.6
+Version:	0.9.7
 Release:	1
 License:	GPL v2
 Group:		Development
 Source0:	http://download.gnome.org/sources/mm-common/0.9/%{name}-%{version}.tar.xz
-# Source0-md5:	3b23749ab39441c392c016ce74632678
+# Source0-md5:	a8b7c11db81a72168bf38d88d97df686
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
